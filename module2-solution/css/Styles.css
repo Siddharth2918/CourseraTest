@@ -23,7 +23,8 @@ h1{
     left: 60%;
     font-size: 1.75em;
     float: none;
-    padding: 10px;
+    padding: 5px;
+    text-align: center;
     border-bottom: 2px solid black;
     border-left: 2px solid black;
 }
